@@ -13,20 +13,73 @@
     border-radius: 10px;
     margin-bottom: 20px;
 }
-h1,p{
+h1{
     color: lightgray;
+}
+#home{
+    color: turquoise;
+    text-decoration: underline;
 }
 #navlist{
     background-color: rgb(50, 162, 182);
-    padding: 15px;
+    padding: 15px 0px 15px 15px;
     border-radius: 20px;
     display: inline-block;
+    vertical-align: top;
     width: 200px;
     height: auto;
+    
 }
 .listA{
-   color: lightgray;
-    /* padding-left: 10px;*/
+    color: turquoise;
     position: relative;
     left: 20px;
+    text-decoration: underline;
+    }
+.listB{
+    color: turquoise;
+    position: relative;
+    left: 40px;
+    text-decoration: underline;
+    }
+#info{
+    display: inline-block;
+    background-color: black;
+    width: 700px;
+    height: auto;
+    margin-left: 20px;
+    padding: 15px;
+    border-radius: 20px;
+    color: lightgray;
+}
+#infoheader{
+    margin-bottom: 10px;
+}
+.infolist{
+    position: relative;
+    left: 20px;
+    margin-top: 10px;
+}
+.listleader{
+    display: inline;
+    color: turquoise;
+    text-decoration: underline;
+}
+.info{
+    display: inline;
+    
+}
+.bluetext{
+    color: rgb(82, 82, 252);
+}
+#footer{
+    margin-top: 20px;
+    padding: 20px;
+    background-color: grey;
+    border-radius: 20px;
+    color: lightgray;
+}
+#jscript{
+    color: turquoise;
+    text-decoration: underline;
 }
