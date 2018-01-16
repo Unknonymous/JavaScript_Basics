@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper{
+    width: 970px;
+    padding: 10px;
+    background-color: rgb(53, 54, 141)
+}
+#header{
+    background-color:red;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+h1,p{
+    color: lightgray;
+}
+#navlist{
+    background-color: rgb(50, 162, 182);
+    padding: 15px;
+    border-radius: 20px;
+    display: inline-block;
+    width: 200px;
+    height: auto;
+}
+.listA{
+   color: lightgray;
+    /* padding-left: 10px;*/
+    position: relative;
+    left: 20px;
+}
